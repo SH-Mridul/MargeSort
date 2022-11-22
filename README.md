@@ -5,5 +5,5 @@
 ![image](https://user-images.githubusercontent.com/63304179/203411442-8ab82a89-bfd5-4e4f-8350-d24d102456b5.png)
 
 <h3>time complexity about marge sort</h3>
-![image](https://user-images.githubusercontent.com/63304179/203414132-502cf47d-9396-4b12-b4d5-f8a73d164714.png)
+![image](https://user-images.githubusercontent.com/63304179/203414213-9ada9f96-70ac-417c-83cf-ae2c85fd115b.png)
 
