@@ -5,5 +5,5 @@
 ![image](https://user-images.githubusercontent.com/63304179/203411442-8ab82a89-bfd5-4e4f-8350-d24d102456b5.png)
 
 <h3>time complexity about marge sort</h3>
-![image](https://user-images.githubusercontent.com/63304179/203414365-8c419cd6-dddc-43c2-b80d-217a6822b318.png)
+Merge Sort is a recursive algorithm and time complexity can be expressed as following recurrence relation. T(n) = 2T(n/2) + O(n) The solution of the above recurrence is O(nLogn)
 
